@@ -1,5 +1,7 @@
 {
   "name": "ionicSecureStorage",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
